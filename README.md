@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there, I'm Leonard
+> Vibe Coding here
 
 <!--
 **Leonard304/Leonard304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Tech Stack:
+#### HTML5  CSS3  JavaScript  React
+
+#### Python  C  Java  NodeJS
+
+#### MySQL  MongoDB  Firebase
+
+
+### About Me
+> I'm Aspiring Software Developer and occasional Musician
+
+
+### Fun Side
+> I love and like chinita girls
+
+
